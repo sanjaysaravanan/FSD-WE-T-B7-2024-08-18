@@ -1,0 +1,105 @@
+Expectations:
+  1. Do Not Hesitate to ask Doubts
+  2. Interaction - Answer all the questions that the Mentor asks
+  3. Revise the previous day topics
+  4. Give feedback about the going session ( Speed, Contents, Examples )
+  5. Listen carefully to all the points
+
+Topics:
+
+  Full-Stack Development:
+    End-To-End Development of an application
+    Developing all the Parts: Front-End, Backend, DB
+  
+    Front-End:
+      Client/Users Browser ( Chrome, Firefox, Opera, Safari etc.,) 
+    
+    Backend:
+      Client interacts with backend to get the essential information
+      Backend will get the data/information from  Database
+    
+    Database:
+      Stores all the data needed for the end user.
+      Eg: Social Media App
+          User Details
+          Posts
+          Comments
+        All the above data will be stored in Database
+
+  Language: JavaScript
+
+  Browsers:
+
+    Internet - What is Internet ?
+
+    HTTP -> Hyper Text Transfer Protocol is used transfer data/information over network. 
+
+    Primarily used Internet( Global Network ) - Using HTTP browser connects to internet
+
+    Global Network which can be accessed with the help of ISP( Internet Service Provider ) like ACT, Hathway, JioFiber
+
+    Connects to the internet and serves HTML, JS, CSS, JSON data
+
+      Introduction to World Wide Web www
+
+      working of internet with HTTP/HTTPS
+
+        DNS - Domain Name System ( Maps all the domains with an IP Address )
+
+        Facebook.com <-> 198.12.31.52
+
+      Evolution Of Browsers
+        Mosaic
+        Natscap, Internet Explorer
+        Chrome, Mozilla, Edge
+      
+      http1.1 vs http2:
+        reference --> https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP#invention_of_the_world_wide_web
+
+      http / https:
+
+        http is a public network, data transferred from client <-> server was not secure
+
+        https: data transferred is on a secured network with encryption SSL
+
+      http status, response codes to understand connection/communication
+        1xx - info
+        2xx - Success
+        3xx - Redirection / Unchanged / Not Modified
+        4xx - Client Error / Client requested for something which is wrong
+        5xx - Server Error / server has some problem, or not responding
+
+      IP Address, MAC Address
+
+      IP: Logical - Internet Protocol Address is used to identify network in internet( WWW/Golbal Public Network )
+
+      MAC: Physical Address - Media Access Control Address -> local addresses to identify/access media on a local network
+
+  Rendering ---> Convert HTML code to Beatiful webpage
+    Hyper Text Mark Up Language
+    HTML Rendering Process Or DOM:
+      DOM --> Document Object Model
+        Skeleton Of Webpage
+
+      1. Browser Fetchs the HTML Document
+      2. Parses it via 
+        DOM Tree --> which is used to rendering
+      3. CSS -> Written Inside/outside HTML
+        CCSSOM Tree --> which is used to painting or format the HTML rendered
+        CSS: Presentation/Skin/Makeup ---> Beautification
+
+      JavaScript:
+        functional Brain of HTML --> Client Side( Page User will see )scripting / functional script
+
+      BrowserJs vs Nodejs
+        V8 Engine invented by Google Chrome, Initially it was only used inside Browser - Front-End Language
+
+        NodeJs:
+          Later, a Developer used the same codes in V8 and created NodeJS, which made the JS to used like other backend languages Python, Java, C, C++  
+
+Task:
+
+  Visit the website You usually use using browser, inspect and check the network requests/calls
+  You can use any browser.
+
+  Revision of Today's Topics
